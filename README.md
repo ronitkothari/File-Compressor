@@ -1,14 +1,4 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** karanvirheer, File-Compressor, Karanvir_H, karanvir.heer@ryerson.ca
--->
+
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -30,14 +20,7 @@
   <p align="center">
     A program utilizing lossless compression and the Huffman Algorithm.
     <br />
-    <a href="https://github.com/karanvirheer/File-Compressor"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/karanvirheer/File-Compressor/issues">View Demo</a>
-    ·
-    <a href="https://github.com/karanvirheer/File-Compressor/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/karanvirheer/File-Compressor/issues">Request Feature</a>
+  
   </p>
 </p>
 
@@ -87,7 +70,7 @@ git clone https://github.com/karanvirheer/File-Compressor.git
 
 ## Usage
 
-To compress your files up to 53% of their original size. Allows for files to be decompressed back to original size.
+To compress your files. Allows for files to be decompressed back to original size.
 
 <!-- CONTRIBUTING -->
 
@@ -101,10 +84,4 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- CONTACT -->
 
-## Contact
-
-Karanvir Heer - [@Karanvir_H](https://twitter.com/Karanvir_H) - karanvir.heer@ryerson.ca
-
-Project Link: [https://github.com/karanvirheer/File-Compressor](https://github.com/karanvirheer/File-Compressor)
